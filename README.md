@@ -29,8 +29,8 @@ folder if it doesn't exist).
 > 💡 If you don't already have the files, search Hugging Face for
 > **CRAFT OCR** and **Cyrillic text recognition**.\
 > Example sources:\
-> - [CRAFT model](https://huggingface.co/zeusey/CRAFT-pytorch)\
-> - [Cyrillic recognition model](https://huggingface.co/)
+> - [CRAFT model]([https://huggingface.co/zeusey/CRAFT-pytorch](https://huggingface.co/xiaoyao9184/easyocr/blob/master/craft_mlt_25k.pth))\
+> - [Cyrillic recognition model]([https://huggingface.co/](https://huggingface.co/xiaoyao9184/easyocr/blob/master/cyrillic_g2.pth))
 
 After downloading, your project should look like this:
 
